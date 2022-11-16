@@ -1,0 +1,1 @@
+The purpose of this project is to create a model of potential changes to Lake Superior water temperature due to climate change. 
