@@ -9,4 +9,5 @@ with the loss of trees. Moisture levels were discovered through both NDMI
 vegetation moisture calculations as well as remotely sensed soil moisture
 levels captured with microwave and infrared sensors. 
 
-The StoryMap report may be viewed here: https://arcg.is/0v8KL9
+The StoryMap report on the soil moisture tests may be viewed here: https://arcg.is/0v8KL9
+The NDMI Prototype has code for setting the study sites and calculating the index. 
